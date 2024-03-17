@@ -64,7 +64,9 @@ fn main() {
     let condition = true ;
     let numero = if condition { // es como si dijera si la condicion verdadera = 5
         5
-    } else {
+    } 
+    
+    else {
         6
     };
 

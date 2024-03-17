@@ -1,6 +1,5 @@
-workspace = { members = ["Fahrenheit-and-Celsius", "fahrenheit-and-celsius"] }
 [package]
-name = "loops"
+name = "fahrenheit-and-celsius"
 version = "0.1.0"
 edition = "2021"
 

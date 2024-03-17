@@ -46,7 +46,7 @@ fn main() {
 
     println!("Hay caramba!!!");
 
-    for numbero in (1..4).rev() { // excluye los numeros 1 y 4, el primero y el ultimo
+    for numbero in (1..4).rev() { // excluye el numero 4, el ultimo
         println!("{}!", numbero); // es el mejor metodo por que no tienes que crear otra variable
 
     }
